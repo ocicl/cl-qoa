@@ -4,6 +4,6 @@ An implementation of the Quite OK Audio file format
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/Shinmera/cl-qoa.git |
-| commit  | 3115889                                    |
+| commit  | b0fe373                                    |
 | systems | cl-qoa                                     |
 |---------+--------------------------------------------|
